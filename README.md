@@ -1,4 +1,4 @@
-# Revest Product Browser App
+# RevestSolutions Assignment App
 
 **Company:** Revest Solutions Pvt. Ltd.  
 **Project:** Cross-Platform Product App (Kotlin Multiplatform + Jetpack Compose)  
@@ -9,7 +9,7 @@
 
 ## About the Project
 
-The **Revest Product Browser App** is a cross-platform mobile application built using **Kotlin Multiplatform + Jetpack Compose Multiplatform**. It targets both **Android and iOS**, providing a clean, responsive product catalog UI.
+The **RevestSolutions Assignment App** is a cross-platform mobile application built using **Kotlin Multiplatform + Jetpack Compose Multiplatform**. It targets both **Android and iOS**, providing a clean, responsive product catalog UI.
 
 This project was created as a technical assignment for Revest Solutions to demonstrate:
 
