@@ -96,10 +96,10 @@ The app will install and launch automatically.
 All screenshots for Light Theme are stored in the `/files/` folder.
 
 <p align="center">
-  <img src="files/screenshot_11.PNG" width="200" alt="Dark Mode Screenshot 1"/>
-  <img src="files/screenshot_21.PNG" width="200" alt="Dark Mode Screenshot 2"/>
-  <img src="files/screenshot_31.PNG" width="200" alt="Dark Mode Screenshot 3"/>
-  <img src="files/screenshot_41.PNG" width="200" alt="Dark Mode Screenshot 4"/>
+  <img src="files/screenshot_11.PNG" width="200" alt=""/>
+  <img src="files/screenshot_21.PNG" width="200" alt=""/>
+  <img src="files/screenshot_31.PNG" width="200" alt=""/>
+  <img src="files/screenshot_41.PNG" width="200" alt=""/>
 </p>
 
 ### Dark Mode
@@ -107,10 +107,10 @@ All screenshots for Light Theme are stored in the `/files/` folder.
 All screenshots for Dark Theme are stored in the `/files/` folder.
 
 <p align="center">
-  <img src="files/screenshot_1.PNG" width="200" alt="Light Mode Screenshot 1"/>
-  <img src="files/screenshot_2.PNG" width="200" alt="Light Mode Screenshot 2"/>
-  <img src="files/screenshot_3.PNG" width="200" alt="Light Mode Screenshot 3"/>
-  <img src="files/screenshot_4.PNG" width="200" alt="Light Mode Screenshot 4"/>
+  <img src="files/screenshot_1.PNG" width="200" alt=""/>
+  <img src="files/screenshot_2.PNG" width="200" alt=""/>
+  <img src="files/screenshot_3.PNG" width="200" alt=""/>
+  <img src="files/screenshot_4.PNG" width="200" alt=""/>
 </p>
 
 ### APK Download (Android)
